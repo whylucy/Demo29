@@ -1,2 +1,6 @@
 hello world
+<<<<<<< HEAD
 adding second line main
+=======
+making changes in feature branch
+>>>>>>> feature1
